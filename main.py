@@ -5,7 +5,7 @@ from newspaper import Article
 
 
 nltk.download('punkt')
-tokenizer = nltk.data.load('nltk:tokenizers/punkt/english.pickle')
+
 
 url = 'https://www.benzinga.com/news/21/01/19109942/elon-musk-teases-tesla-ai-day'
 
